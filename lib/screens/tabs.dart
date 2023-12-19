@@ -48,7 +48,7 @@ class _TabsScreenState extends ConsumerState<TabsScreen> {
     final availableMeals = ref.watch(filteredMealsProvider);
 
     Widget activePage = CategoriesScreen(
-      availableMeals: availableMeals, 
+      availableMeals: availableMeals,
     );
     String activePageTitle = 'Categories';
 
