@@ -11,13 +11,13 @@ Welcome to meals_app! This Flutter project is an demo app designed to help users
 
 ## State Management
 
-This project utilizes state management techniques to handle complex features and ensure a smooth user experience. The specific state management approach used may vary based on the project's requirements and preferences.
+This project utilizes flutter_riverpod package to manage app wide state and to handle complex features and ensure a smooth user experience. The specific state management approach used may vary based on the project's requirements and preferences.
 
 ## Getting Started
 
 To get started with meals_app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com//meals_app.git`
+1. Clone the repository: `git clone git@github.com:minkhantko-0/meals_app.git`
 2. Navigate to the project directory: `cd meals_app`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
@@ -25,7 +25,3 @@ To get started with meals_app, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
