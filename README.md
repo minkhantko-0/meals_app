@@ -11,7 +11,7 @@ Welcome to meals_app! This Flutter project is an demo app designed to help users
 
 ## State Management
 
-This project utilizes flutter_riverpod package to manage app wide state and to handle complex features and ensure a smooth user experience. The specific state management approach used may vary based on the project's requirements and preferences.
+This project utilizes flutter_riverpod package to manage application-wide state and to handle complex features and ensure a smooth user experience. The specific state management approach used may vary based on the project's requirements and preferences.
 
 ## Getting Started
 
